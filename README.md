@@ -5,6 +5,7 @@
 <h2>
 جدول پروژه ها
 </h2>
+<p align="center">
 <table style="width:100%;">
 <tr>
 <td>
@@ -31,4 +32,5 @@
 </td>
 </tr>
 </table>
+</p>
 </div>
