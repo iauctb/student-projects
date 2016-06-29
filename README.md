@@ -31,6 +31,19 @@
 پیشرفته
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/iauctb/student-projects/tree/master/joqd">
+وب فریم‌وورک جغد
+</a>
+</td>
+<td>
+جاوید ایزدفر، ستاره کریمی خویگانی
+</td>
+<td>
+پیشرفته
+</td>
+</tr>
 </table>
 </p>
 <h2>
