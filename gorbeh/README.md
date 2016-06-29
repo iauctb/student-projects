@@ -33,7 +33,7 @@
 <h2>
 لینک های مرتبط
 </h2>
-<a href="https://github.com/IKAcc/Joqd">گیتهاب پروژه</a>
+<a href="https://github.com/IKAcc/Gorbeh">گیتهاب پروژه</a>
 <br/>
  <a href="http://twitter.com/setarekarimi">ستاره کریمی</a>
 <br/>
