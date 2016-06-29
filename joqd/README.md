@@ -13,7 +13,7 @@
 <strong>
 نام مسئول پروژه :
 </strong>
- (ستاره کریمی خویگانی (ورودی ۱۳۹۱، گرایش نرم‌افزار) – جاوید ایزدفر (ورودی ۱۳۹۱، گرایش نرم‌افزار
+ ستاره کریمی خویگانی (ورودی ۱۳۹۱، گرایش نرم‌افزار) – جاوید ایزدفر (ورودی ۱۳۹۱، گرایش نرم‌افزار)
 <br/>
 <strong>
 سطح پروژه: 
@@ -33,13 +33,10 @@
 <h2>
 لینک های مرتبط
 </h2>
-<a href="https://github.com/JabirTech/KarmaOS" target="__blank">
-گیتهاب
-</a>
 <br/>
 <a href="https://github.com/IKAcc/Joqd">گیتهاب پروژه</a>
-ایمیل مسئول پروژه
-</a>
- <a href="http://twitter.com/setarekarimi">ستاره کریمی</a>
+<br/>
+<a href="http://twitter.com/setarekarimi">ستاره کریمی</a>
+<br/>
 <a href="http://twitter.com/JavidIzadfar">جاوید ایزد فر</a>
 </div>
