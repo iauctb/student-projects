@@ -56,6 +56,20 @@
 <td>
 پیشرفته
 </td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/iauctb/student-projects/tree/master/rangebrand">
+رنگ برند
+</a>
+</td>
+<td>
+جاوید ایزد فر، ستاره کریمی، مهرنوش دشتی
+</td>
+<td>
+پیشرفته
+</td>
+</tr>
 </table>
 </p>
 <h2>
