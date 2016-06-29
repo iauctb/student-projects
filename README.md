@@ -38,12 +38,24 @@
 </a>
 </td>
 <td>
-جاوید ایزدفر، ستاره کریمی خویگانی
+جاوید ایزدفر، ستاره کریمی 
 </td>
 <td>
 پیشرفته
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/iauctb/student-projects/tree/master/gorbeh">
+آیکون‌ست گربه
+</a>
+</td>
+<td>
+جاوید ایزد فر، ستاره کریمی
+</td>
+<td>
+پیشرفته
+</td>
 </table>
 </p>
 <h2>
