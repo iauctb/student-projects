@@ -83,6 +83,19 @@
 پیشرفته
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/iauctb/student-projects/tree/master/pol">
+پردازنده StrongPC
+</a>
+</td>
+<td>
+محمدرضا حقیری قزوینی
+</td>
+<td>
+پیشرفته
+</td>
+</tr>
 </table>
 </p>
 <h2>
