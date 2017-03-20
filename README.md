@@ -85,7 +85,7 @@
 </tr>
 <tr>
 <td>
-<a href="https://github.com/iauctb/student-projects/tree/master/pol">
+<a href="https://github.com/iauctb/student-projects/tree/master/StrongPC">
 پردازنده StrongPC
 </a>
 </td>
